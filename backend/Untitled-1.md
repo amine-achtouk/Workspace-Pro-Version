@@ -1,6 +1,6 @@
 # File Tree: Workspace-Pro
 
-**Generated:** 2/27/2026, 1:39:35 AM
+**Generated:** 2/27/2026, 10:57:48 PM
 **Root Path:** `c:\Users\GAMETECH\Desktop\Workspace-Pro`
 
 ```
@@ -35,7 +35,7 @@
     │   │   ├── 📄 userService.js
     │   │   └── 📄 workspaceService.js
     │   ├── 📁 tests
-    │   │   ├── 📄 setup.js
+    │   │   ├── 📄 note.test.js
     │   │   ├── 📄 user.test.js
     │   │   └── 📄 workspace.test.js
     │   ├── 📁 utils
@@ -51,7 +51,8 @@
     │   └── 📄 server.js
     ├── ⚙️ .gitignore
     ├── ⚙️ package-lock.json
-    └── ⚙️ package.json
+    ├── ⚙️ package.json
+    └── ⚙️ railway.json
 ```
 
 ---

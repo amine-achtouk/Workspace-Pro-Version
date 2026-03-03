@@ -2,7 +2,6 @@ const request = require('supertest')
 const app = require('../app')
 const mongoose = require('mongoose')
 
-// قبل كل الـ tests — اتصل بـ DB تجريبية
 beforeAll(async () => {
     await mongoose.connect(process.env.MONGO_URI_TEST)
 })
